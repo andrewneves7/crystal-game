@@ -1,0 +1,99 @@
+h1 {
+    text-align:left;
+    font-size: 65px;
+    color:linen;
+    font-family: 'Merriweather', serif;
+
+}
+ 
+.container {
+    float: left; 
+}
+
+body {
+    background-color:maroon;
+}
+
+#box1 {
+    background-color: tan;  
+    margin-bottom: 1em;
+}
+
+#box2 {
+    
+    background-color: tan;  
+}
+
+#box3 {
+    
+    background-color: tan;     
+    float: left;
+    height: 2em;
+}
+
+#box4 {
+    background-color: tan;   
+    height: 2em;
+}
+
+#box5 {
+    
+    background-color: tan;  
+    height: 2em;
+    margin-left: -1.7em;
+    margin-bottom: 1em;
+}
+
+#box6 {
+    background-color: tan; 
+    margin-left: -1.7em;
+    height: 2em;
+}
+
+p, h2 {
+    font-family: 'Merriweather', serif;
+    color:linen;
+    font-size: 1.5em;
+}
+
+.win {
+    margin-top: -2em;
+    margin-left: 10px;
+}
+
+.loss {
+    margin-top: 1em;
+    margin-left: 10px;
+}
+
+#random-number {
+    font-weight: 600;
+    font-color:linen;
+    font-size: 2.5em;
+    margin-left: 5px;
+    font-family: 'Abril Fatface', cursive;
+
+}
+
+#wins, #losses {
+    color: rgb(12, 11, 11);    
+}
+
+#total-score {
+    color: rgb(240, 232, 232);  
+    font-size: 2.5em;
+    margin-left: 5px;
+}
+
+.picture {
+    margin-left: -.5em;
+    margin-bottom: 2em;
+    height: 6em;
+    width: 6em;
+}
+
+#total {
+    color: rgb(240, 232, 232);
+    margin-left: -10px;
+    margin-top: 3px;
+}
